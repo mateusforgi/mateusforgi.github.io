@@ -1,33 +1,33 @@
 {
-2   "applinks":{
-3      "apps":[
-4         
-5      ],
-6      "details":[
-7         {
-8            "appID":"T2T5W23H93.eu.pilabs.safetytag.app.dev",
-9            "components":[
-10               {
-11                  "?":"confirmSignup",
-12               }
-13            ]
-14         },
-15         {
-16            "appID":"T2T5W23H93.eu.pilabs.safetytag.app.internal",
-17            "components":[
-18               {
-19                  "?":"confirmSignup",
-20               }
-21            ]
-22         },
-23         {
-24            "appID":"T2T5W23H93.eu.pilabs.safetytag.app",
-25            "components":[
-26               {
-27                  "?":"confirmSignup",
-28               }
-29            ]
-30         }
-31      ]
-32   }
-33}
+  "applinks":{
+     "apps":[
+        
+     ],
+     "details":[
+        {
+           "appID":"T2T5W23H93.eu.pilabs.safetytag.app.dev",
+           "components":[
+               {
+                  "?":"confirmSignup",
+               }
+            ]
+         },
+         {
+            "appID":"T2T5W23H93.eu.pilabs.safetytag.app.internal",
+            "components":[
+               {
+                  "?":"confirmSignup",
+               }
+            ]
+         },
+         {
+            "appID":"T2T5W23H93.eu.pilabs.safetytag.app",
+            "components":[
+               {
+                  "?":"confirmSignup",
+               }
+            ]
+         }
+      ]
+   }
+}
